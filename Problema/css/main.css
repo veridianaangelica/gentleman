@@ -1,0 +1,50 @@
+
+.nav-header{
+	background-color: #151515;
+}
+.list-nav li{
+	display: inline-block;
+	list-style: none;
+	padding-top: 20px;
+}
+.list-nav a{
+	color: white;
+}
+.head{
+	width: 450px;
+}
+.main-menu{
+	padding: 0;
+}
+.main-menu li{
+	display: inline-block;
+	list-style: none;
+}
+.main-menu a{
+	color:black;
+}
+h6{
+	color:black;
+}
+.list-icons li{
+	display: inline-block;
+	list-style: none;
+}
+.ion-grid{
+	font-size: 12px;
+}
+.imagenes{
+	width: 310px;
+}
+.ion-social-twitter{
+	font-size: 35px;
+	text-align: center;
+}
+.lista li{
+	display: inline-block;
+	list-style: none;
+	t
+}
+.final{
+	background-color:#1C1C1C;
+}
